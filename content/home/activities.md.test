@@ -1,0 +1,45 @@
++++
+# An example of using the custom widget to create your own homepage section.
+# To create more sections, duplicate this file and edit the values below as desired.
+
+date = "2016-04-20T00:00:00"
+draft = false
+
+title = "Activities"
+subtitle = ""
+widget = "custom"
+
+# Order that this section will appear in.
+weight = 60
+
++++
+
+Professional Membership
+
+- Institute for Electrical and Electronics Engineers (IEEE), Student Member, 2015–present
+- Technical Chamber of Greece, Member, 2012–present
+
+Professional services
+
+* Member of the Technical Program Committee of:
+
+	* 11th International Conference on Mobile Ubiquitous Computing, Systems, Services and Technologies (UBICOMM 2017), Barcelona, Spain, November 2017. 
+	
+	* IEEE Workshop on IoT Ecosystems in Mission-Critical Scenarios using LTE or 5G Networks (in conjunction with Global IoT Summit 2017), Geneva, Switzerland, June 2017. 
+	
+	* IEEE Workshop on Integrating Communications, Control, and Computing Technologies for Smart Grid (in conjunction with IEEE ICC 2017), Paris, France, May 2017. 
+
+* Reviewer of scientific articles:
+
+	* __**Journals**__: IEEE Transactions on Wireless Communications, IEEE Transactions on Industrial Informatics, IEEE Transactions on Sustainable Computing, IEEE Transactions on Green Communications and Networking, IEEE Communications Letters, IEEE Access, IEEE Internet of Things, Elsevier Computer Communications, Hindawi Mobile Information Systems, Transactions on Emerging Telecommunications Technologies.
+
+	* __**Conferences**__: IEEE International Conference on Communications, IEEE Global Telecommunications Conference, IEEE International Conference on Smart Grid Communications, IEEE Vehicular Technology Conference, Global IoT Summit, IEEE Symposium on Computers and Communication.
+
+Seminars and Talks
+
+- Future of Green Energy and Communications: The Smart Grid Story, Science Week, CTTC, November 2015
+- Cellular Technology for Communication in Smart Grids, Smart Grid seminar, National Technical University of Athens, June 2015
+
+Thesis Supervisor
+
+- X. Weng, "Modern Access Technologies for Radio Resource Management in Machine-to-Machine Networks", CTTC, Beijing University of Posts and Telecommunications and Queen Mary University of London, November 2014 - May 2015.
